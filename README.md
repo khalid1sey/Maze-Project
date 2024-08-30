@@ -16,11 +16,13 @@ Installation
 
 To get started, clone the repository using the following command:
 
+```
 sh
 Copy code
 $ git clone https://github.com/lilahseyfu/Maze-Project
 Usage
 Launch the game and start your adventure:
+```
 
 Execute ./maze or type make run to start the game.
 Movement Controls:
