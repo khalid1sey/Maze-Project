@@ -46,12 +46,8 @@ VR Support: Experience the maze in virtual reality for an even more immersive ga
 Advanced AI Opponents: Add computer-controlled opponents to race against in single-player mode.
 
 
-### Author Khalid Sinteayehu
+``` Author Khalid Sinteayehu ```
 Crafted with dedication and a passion for game development.
-
-This version adds more depth and uniqueness to the project description, highlighting potential future enhancements and unique features that could set The Maze apart from similar projects.
-
-
 
 
 
