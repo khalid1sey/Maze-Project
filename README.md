@@ -13,11 +13,12 @@ Time Trial Mode: Race against the clock to complete the maze in the shortest tim
 Hidden Secrets: The maze contains hidden passages and secret rooms that can only be discovered by keen-eyed players.
 Customizable Controls: Players can remap controls to suit their playstyle, offering greater accessibility and comfort.
 Installation
+
 To get started, clone the repository using the following command:
 
 sh
 Copy code
-$ git clone https://github.com/Azubuikeleo13/The-Maze-Project.git
+$ git clone https://github.com/lilahseyfu/Maze-Project
 Usage
 Launch the game and start your adventure:
 
@@ -41,7 +42,9 @@ See The Maze in action:
 Multiplayer Mode: Compete with friends in a multiplayer maze race.
 VR Support: Experience the maze in virtual reality for an even more immersive gameplay experience.
 Advanced AI Opponents: Add computer-controlled opponents to race against in single-player mode.
-Author Khalid Sinteayehu
+
+
+### Author Khalid Sinteayehu
 Crafted with dedication and a passion for game development.
 
 This version adds more depth and uniqueness to the project description, highlighting potential future enhancements and unique features that could set The Maze apart from similar projects.
